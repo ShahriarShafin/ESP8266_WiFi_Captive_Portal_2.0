@@ -33,7 +33,7 @@ String input(String argName) {
   a.substring(0,200); return a; }
 
 String footer() { return 
-  "</div><div class=q><a>&#169; All rights reserved.</a></div>";
+  "<div class=q><a>&#169; All rights reserved.</a></div>";
 }
 
 String header(String t) {
